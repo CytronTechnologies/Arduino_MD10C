@@ -15,6 +15,11 @@ If your project required higher current rating you might want consider [13Amp 6V
 **Software:**  
 * [Arduino IDE](https://www.arduino.cc/en/software)  
 
+## Installation  
+For the wiring from Arduino Nano to MD10C and DC Motor you can refer the diagram below:  
+<img src="https://github.com/CytronTechnologies/Arduino_MD10C/blob/master/Connection-MD10C.jpg" width="600"> 
+
+
 ## Related Tutorials  
 * [MD10C Fast Testing](https://my.cytron.io/tutorial/md10c-fast-testing)  
 * [Driving DC Brush Motor with MD10C](https://my.cytron.io/tutorial/project-10-driving-dc-brush-motor-with-md10c)  
