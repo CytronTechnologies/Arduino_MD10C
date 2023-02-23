@@ -1,6 +1,6 @@
 # Arduino_MD10C  
 This is Arduino sketch for tutorial Controlling MD10C with Arduino.  
-<img src="https://user-images.githubusercontent.com/124652815/220815788-508282f2-694a-4fc1-8712-8355e739f3ec.png" width="350">  
+<img src="https://github.com/CytronTechnologies/Arduino_MD10C/blob/master/MD10C_image.jpg" width="350">  
 
 For full tutorial you can refer to [Controlling 10A DC Motor Driver using Arduino Nano](https://my.cytron.io/tutorial/controlling-10a-dc-motor-driver-using-arduino-nano).  
 
